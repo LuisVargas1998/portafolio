@@ -7,7 +7,7 @@ Ingeniero Machine Learning e Ingeniero Electrónico con experiencia en implement
 ![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23357ebd.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/numpy-%23357ebd.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-357ebd?style=for-the-badge)
+<!--![Seaborn](https://img.shields.io/badge/Seaborn-357ebd?style=for-the-badge)-->
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-357ebd?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-357ebd?style=for-the-badge)
 ![NLTK](https://img.shields.io/badge/NLTK-357ebd?style=for-the-badge)
@@ -29,7 +29,8 @@ Ingeniero Machine Learning e Ingeniero Electrónico con experiencia en implement
 ![Estadística](https://img.shields.io/badge/Estad%C3%ADstica-%23357ebd.svg?style=for-the-badge)
 ![Análisis estadístico](https://img.shields.io/badge/An%C3%A1lisis_Estad%C3%ADstico-%23357ebd.svg?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=power-bi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ## Habilidades blandas
 
