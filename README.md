@@ -1,6 +1,6 @@
 # Acerca de mi
 
-Científico de datos e Ingeniero Industrial bilingüe (inglés - español) con 3+ años de experiencia en desarrollo en Python para la creación de modelos predictivos que se adapten a la resolución de problemas. Experto en análisis estadístico, desarrollo de modelos predictivos de machine learning, visualización de datos, resolución de problemas, análisis de datos y storytelling. En sus trabajos anteriores se ha destacado por tener habilidades de liderazgo y trabajo en equipo, gestionando equipos grandes y aumentando la eficiencia de los procesos en un 50%.
+Ingeniero Electrónico, con experiencia en aprendizaje automático, visión por computadora y automatización de procesos. Especialista en el uso de modelos avanzados como YOLO NAS y YOLO V8, procesamiento de datos con Dask y PySpark, y extracción de información mediante OCR y redes neuronales. Además, cuenta con habilidades en investigación, diseño y desarrollo de sistemas electrónicos, y participación en proyectos integrales que abarcan análisis de datos y fundamentos de desarrollo web. Apasionado por la tecnología y el aprendizaje constante.
 
 ## Habilidades técnicas
 
