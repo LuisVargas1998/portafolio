@@ -1,6 +1,6 @@
 # Acerca de mi
 
-Ingeniero Electrónico, con experiencia en aprendizaje automático, visión por computadora y automatización de procesos. Especialista en el uso de modelos avanzados como YOLO NAS y YOLO V8, procesamiento de datos con Dask y PySpark, y extracción de información mediante OCR y redes neuronales. Además, cuenta con habilidades en investigación, diseño y desarrollo de sistemas electrónicos, y participación en proyectos integrales que abarcan análisis de datos y fundamentos de desarrollo web. Apasionado por la tecnología y el aprendizaje constante.
+Ingeniero Machine Learning e Ingeniero Electrónico con experiencia en implementación de modelos de clasificación desarrollados en Python. Especialista en el uso de modelos de visión por computadora, extracción y validación de información en documentos mediante OCR y webscraping. Además, posee habilidades en investigación, diseño y desarrollo de sistemas electrónicos, y participación en proyectos integrales que abarcan análisis de datos y fundamentos de desarrollo web. Apasionado por la tecnología y el aprendizaje constante.
 
 ## Habilidades técnicas
 
