@@ -7,6 +7,8 @@ Ingeniero Machine Learning e Ingeniero Electrónico con experiencia en implement
 ![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white&color=blue)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&color=blue)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=blue)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&color=blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&color=blue)
 ![Albumentations](https://img.shields.io/badge/Albumentations-FF6F00?style=for-the-badge&logo=albumentations&logoColor=white&color=blue)
 ![COCO Annotator](https://img.shields.io/badge/COCO_Annotator-FF6F00?style=for-the-badge&logo=coco&logoColor=white&color=blue)
