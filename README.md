@@ -41,15 +41,10 @@ Ingeniero Machine Learning e Ingeniero Electrónico con experiencia en implement
 ## Habilidades blandas
 
 - Me adapto fácilmente a nuevos entornos y situaciones.
-- Trabajo en equipo de manera efectiva y colaborativa.
 - Comunico de manera clara y concisa, tanto verbal como escrita.
-- Soy proactivo y tomo la iniciativa para resolver problemas.
-- Me enfoco en la calidad y la precisión en mi trabajo.
-- Me ajusto a los cambios y nuevas situaciones de manera flexible.
 - Aprendo de la retroalimentación y me esfuerzo por mejorar continuamente.
-- Manejo el estrés y la presión de manera efectiva.
-- Me enfoco en la solución de problemas y desafíos.
-- Soy detallista y preciso en mi trabajo.
+- Me enfoco en la solución de problemas y desafíos, siendo proactivo y tomando la iniciativa para resolverlos.
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-eduardo-vargas-cely-7a947a266/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vargascelyluiseduardo@gmail.com)
