@@ -55,7 +55,8 @@ Ingeniero Machine Learning e Ingeniero Electrónico con experiencia en implement
 ### Inversiones Gutiérrez García y CIA S en C
 
 **Desarrollo de Hardware y Software de los sistemas de Inteligencia Artificial (Mayo/2024 – Septiembre/2024)**
-#### Clasificación y extracción de datos en cédulas y documentos 
+
+#### Clasificación y extracción de datos en cédulas y documentos:
 - Gestión del proyecto en GitLab.
 - Uso de FiftyOne para aplicar “Active Learning”.
 - Creación de dataset con imágenes inéditas y uso "Data Augmentation" con Albumentation.
@@ -67,6 +68,18 @@ Ingeniero Machine Learning e Ingeniero Electrónico con experiencia en implement
 - Procesamiento de datos con Pandas.
 - Implementación de API con Flask.
 - Uso de herramientas de Selenium y ChromeDriver para automatizar la búsqueda y descargas web de documentos.proyecto y próximos pasos.
+
+  **Clasificador de señales de tránsito y deterioro vial **
+
+- Gestión del proyecto en GitLab.
+- Creación de dataset con imágenes inéditas, de internet, bases de datos externas y aplicación de técnica "Data Augmentation".
+- Etiquetado de datos utilizando COCO Annotator.
+- Entrenamiento de modelo neuronal convolucional para detección y clasificación YOLO NAS y uso de rastreo con ByteTracker.
+- Procesamiento en paralelo de video utilizando Dask y gestión de procesos con Prefect.
+- Procesamiento de datos con Pandas, PySpark, Delta Lake.
+- Implementación de API con FastAPI.
+- Uso de base de datos y almacenamiento Mongo DB (Atlas), MinIO, S3.
+- Creación de capa web con Nuxt.js y uso de mapas de Leaflet.
 
 # Proyectos seleccionados
 
