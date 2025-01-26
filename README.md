@@ -50,7 +50,7 @@ Ingeniero Machine Learning e Ingeniero Electrónico con experiencia en implement
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vargascelyluiseduardo@gmail.com)
 
 
-## Experiencia Laboral
+## Experiencia
 
 ### Inversiones Gutiérrez García y CIA S en C
 
@@ -89,5 +89,27 @@ Ingeniero Machine Learning e Ingeniero Electrónico con experiencia en implement
 - [Página web](https://hackatonersfrontend.onrender.com/)
 
 ![Retail](/assets/img/vistaEspacial1.png)
+
+
+### Proyecto Universitario
+
+**Inteligencia Computacional 2 (Abril/2023 – Junio/2023)**
+
+#### Clasificador de Hits de Spotify utilizando CNN:
+- Lenguaje de programación Python.
+- Análisis y procesamiento de datos del dataset.
+- Implementación de una red neuronal Feed-Forward con Keras.
+- Uso de algoritmos PCA y TSNE para la reducción de las variables de entrada.
+
+### Proyecto Universitario
+
+**Inteligencia Computacional 1 (Abril/2023 – Junio/2023)**
+
+#### Clasificador de Hits de Spotify utilizando sistemas difusos:
+- Lenguaje de programación Matlab.
+- Análisis y procesamiento de datos del dataset.
+- Definición de conjuntos y reglas para posterior ajuste y optimización de parámetros y obtención de la inferencia difusa.
+
+
 
 
