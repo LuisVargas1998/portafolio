@@ -1,4 +1,4 @@
-# Perfil Profesional
+# Perfil profesional
 
 Ingeniero Machine Learning e Ingeniero Electrónico con experiencia en implementación de modelos de clasificación desarrollados en Python. Especialista en visión por computadora, extracción y validación de información en documentos mediante OCR y Web Scraping. Además, posee habilidades en investigación, diseño y desarrollo de sistemas electrónicos, y participación en proyectos integrales que abarcan análisis y procesamiento de datos, y fundamentos de desarrollo web. Apasionado por la tecnología y el aprendizaje constante.
 
@@ -40,11 +40,16 @@ Ingeniero Machine Learning e Ingeniero Electrónico con experiencia en implement
 
 ## Habilidades blandas
 
-- Inteligencia emocional.
-- Colaboración y comunicación efectiva.
-- Gestión del tiempo y priorización de tareas.
-- Orientación a la resolución de problemas y atención al detalle.
-- Comunicación efectiva: Capacidad para transmitir ideas y conocimientos de manera clara y comprensible.
+- Me adapto fácilmente a nuevos entornos y situaciones.
+- Trabajo en equipo de manera efectiva y colaborativa.
+- Comunico de manera clara y concisa, tanto verbal como escrita.
+- Soy proactivo y tomo la iniciativa para resolver problemas.
+- Me enfoco en la calidad y la precisión en mi trabajo.
+- Me ajusto a los cambios y nuevas situaciones de manera flexible.
+- Aprendo de la retroalimentación y me esfuerzo por mejorar continuamente.
+- Manejo el estrés y la presión de manera efectiva.
+- Me enfoco en la solución de problemas y desafíos.
+- Soy detallista y preciso en mi trabajo.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-eduardo-vargas-cely-7a947a266/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vargascelyluiseduardo@gmail.com)
@@ -54,9 +59,9 @@ Ingeniero Machine Learning e Ingeniero Electrónico con experiencia en implement
 
 ### Management Solutions
 
-**Business Data Analyst (11/2023 – actualmente)**
+**Desarrollo de Hardware y Software de los sistemas de Inteligencia Artificial (Mayo/2024 – Septiembre/2024)**
 
-- Colaboro con el equipo de contabilidad para el desarrollo de nuevas consultas en SQL.
+- Gestión del proyecto en GitLab.
 - Preproceso los datos utilizando herramientas en Python como Pandas, Numpy y Scikit-learn.
 - Descubro insights de la visualización de los datos en matplotlib, seaborn, plotly y Power BI.
 - Desarrollo nuevos reportes financieros asegurando la calidad y validez de los datos.
