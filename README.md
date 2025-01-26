@@ -43,7 +43,7 @@ Ingeniero Machine Learning e Ingeniero Electrónico con experiencia en implement
 - Me adapto fácilmente a nuevos entornos y situaciones.
 - Comunico de manera clara y concisa, tanto verbal como escrita.
 - Aprendo de la retroalimentación y me esfuerzo por mejorar continuamente.
-- Me enfoco en la solución de problemas y desafíos, siendo proactivo y tomando la iniciativa para resolverlos.
+- Me dedico a fondo a la solución de problemas y desafíos, siendo proactivo y tomando la iniciativa para resolverlos.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-eduardo-vargas-cely-7a947a266/)
@@ -52,7 +52,7 @@ Ingeniero Machine Learning e Ingeniero Electrónico con experiencia en implement
 
 ## Experiencia Laboral
 
-### Management Solutions
+### Inversiones Gutiérrez García y CIA S en C
 
 **Desarrollo de Hardware y Software de los sistemas de Inteligencia Artificial (Mayo/2024 – Septiembre/2024)**
 
