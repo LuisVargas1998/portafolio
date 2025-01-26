@@ -69,7 +69,11 @@ Ingeniero Machine Learning e Ingeniero Electrónico con experiencia en implement
 - Implementación de API con Flask.
 - Uso de herramientas de Selenium y ChromeDriver para automatizar la búsqueda y descargas web de documentos.proyecto y próximos pasos.
 
-  **Clasificador de señales de tránsito y deterioro vial **
+### Inversiones Gutiérrez García y CIA S en C
+
+**Pasante de Ingeniería Electrónica (Junio/2023 – Enero/2024)**
+
+#### Clasificación y extracción de datos en cédulas y documentos:
 
 - Gestión del proyecto en GitLab.
 - Creación de dataset con imágenes inéditas, de internet, bases de datos externas y aplicación de técnica "Data Augmentation".
