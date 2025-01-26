@@ -5,3 +5,4 @@ show_downloads: true
 theme: jekyll-theme-minimal
 include:
   - assets/styles.css
+logo_class: logo
