@@ -67,7 +67,7 @@ Ingeniero Machine Learning e Ingeniero Electrónico con experiencia en implement
 - Uso de Unstructured como herramienta guía para extracción de texto.
 - Procesamiento de datos con Pandas.
 - Implementación de API con Flask.
-- Uso de herramientas de Selenium y ChromeDriver para automatizar la búsqueda y descargas web de documentos.
+- Uso de herramientas como Selenium y ChromeDriver para automatizar la búsqueda y descarga de documentos web, asegurando la autenticidad de la cédula.
 
 ### Inversiones Gutiérrez García y CIA S en C
 
