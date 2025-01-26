@@ -113,7 +113,7 @@ Ingeniero Machine Learning e Ingeniero Electrónico con experiencia en implement
 - **Explora más detalles del proyecto en el [repositorio completo](https://github.com/HidenLacan/Hackaton-data).**
 - [Página web](https://hackatonersfrontend.onrender.com/)
 
-![Retail](/assets/img/retail.jpeg)
+![Retail](/assets/img/vistaEspacial1.png)
 
 ## Pronóstico de cancelación de clientes en el sector de telecomunicaciones - junio 2024
 
