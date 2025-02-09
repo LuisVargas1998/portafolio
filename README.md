@@ -73,7 +73,7 @@ Ingeniero Machine Learning e Ingeniero Electrónico con experiencia en implement
 
 **Pasante de Ingeniería Electrónica (Junio/2023 – Enero/2024)**
 
-#### Clasificación y extracción de datos en cédulas y documentos:
+#### Clasificador de señales de tránsito y deterioro vial:
 
 - Gestión del proyecto en GitLab.
 - Creación de dataset con imágenes inéditas, de internet, bases de datos externas y aplicación de técnica "Data Augmentation".
