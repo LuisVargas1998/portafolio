@@ -47,7 +47,7 @@ Ingeniero Machine Learning e Ingeniero Electrónico con experiencia en implement
 - Me dedico a fondo a la solución de problemas y desafíos, siendo proactivo y tomando la iniciativa para resolverlos.
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luis-eduardo-vargas-7a947a266)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-eduardo-vargas-7a947a266)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vargascelyluiseduardo@gmail.com)
 
 
