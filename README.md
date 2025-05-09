@@ -36,6 +36,7 @@ Ingeniero Machine Learning e Ingeniero Electrónico con experiencia en implement
 ![Nuxt](https://img.shields.io/badge/Nuxt-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white&color=blue)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=blue)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white&color=blue)
+![CloudCompare](https://img.shields.io/badge/CloudCompare-blue?style=for-the-badge&logoColor=white)
 
 
 ## Habilidades blandas
