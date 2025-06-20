@@ -1,6 +1,6 @@
 # Perfil profesional
 
-Ingeniero Machine Learning e Ingeniero Electrónico con experiencia en implementación de modelos de clasificación desarrollados en Python. Especialista en visión por computadora, extracción y validación de información en documentos mediante OCR y Web Scraping. Además, posee habilidades en investigación, diseño y desarrollo de sistemas electrónicos, y participación en proyectos integrales que abarcan análisis y procesamiento de datos, y fundamentos de desarrollo web. Apasionado por la tecnología y el aprendizaje constante.
+Ingeniero Electrónico con experiencia en implementación de modelos de clasificación. Especialista en visión por computadora, extracción y validación de información en documentos mediante OCR y Web Scraping. Además, poseo habilidades en investigación, diseño y desarrollo de sistemas electrónicos, y participación en proyectos integrales que abarcan análisis y procesamiento de datos, y fundamentos de desarrollo web. Apasionado por la tecnología y el aprendizaje constante.
 
 ## Habilidades técnicas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=blue)
