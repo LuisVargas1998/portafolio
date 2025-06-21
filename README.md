@@ -57,7 +57,7 @@ Ingeniero Electrónico con experiencia en visión por computadora, desarrollo de
 
 **Desarrollo de Hardware y Software de los sistemas de Inteligencia Artificial (Mayo/2024 – Septiembre/2024)**
 
-#### Clasificación y extracción de datos en cédulas y documentos:
+#### Validación Automatizada de Documentos de Identificación con Visión por Computadora:
 - Gestión del proyecto en GitLab.
 - Uso de FiftyOne para aplicar “Active Learning”.
 - Creación de dataset con imágenes inéditas y uso "Data Augmentation" con Albumentation.
@@ -74,7 +74,7 @@ Ingeniero Electrónico con experiencia en visión por computadora, desarrollo de
 
 **Pasante de Ingeniería Electrónica (Junio/2023 – Enero/2024)**
 
-#### Clasificador de señales de tránsito y deterioro vial:
+#### Inspección Vial utilizando Visión por Computadora:
 
 - Gestión del proyecto en GitLab.
 - Creación de dataset con imágenes inéditas, de internet, bases de datos externas y aplicación de técnica "Data Augmentation".
