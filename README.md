@@ -54,9 +54,9 @@ Ingeniero Electrónico con experiencia en visión por computadora, desarrollo de
 ## Experiencia
 
 ### **Proyecto:** *Validación Automatizada de Documentos de Identificación con Visión por Computadora*
-**Empresa:** Inversiones Gutiérrez García y CIA S en C.  
-**Cargo:** Desarrollo de Hardware y Software de los sistemas de Inteligencia Artificial.
-**Fecha:** Mayo/2024 – Septiembre/2024. 
+**Empresa:** Inversiones Gutiérrez García y CIA S en C 
+**Cargo:** Desarrollo de Hardware y Software de los sistemas de Inteligencia Artificial
+**Fecha:** Mayo/2024 – Septiembre/2024
 
 - Gestión del proyecto en GitLab.
 - Uso de FiftyOne para aplicar “Active Learning”.
