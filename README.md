@@ -98,6 +98,10 @@ La interfaz incluye filtros temporales y espaciales, que permiten al usuario vis
 ##### Funcionalidades avanzadas:
 La plataforma también ofrece la posibilidad de acceder a información detallada sobre elementos específicos, como señales de tránsito. Al seleccionar una señal, el sistema muestra datos precisos, como el número de fotograma en el que aparece, su ubicación en la imagen y las coordenadas GPS asociadas, como se observa en la figura correspondiente. Esta funcionalidad permite un análisis exhaustivo y detallado, brindando a las entidades inspectoras una herramienta poderosa para la toma de decisiones basada en datos georreferenciados.
 
+<div style="transform: rotateY(20deg); transform-style: preserve-3d; display: inline-block;">
+  <img src="/assets/img/Ver_Detalle.png" alt="Retail" style="width: 300px;">
+</div>
+
 ![Retail](/assets/img/Ver_Detalle.png)
 
 - **Explora más detalles del proyecto en el [repositorio completo](https://github.com/HidenLacan/Hackaton-data).**
