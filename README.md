@@ -54,9 +54,9 @@ Ingeniero Electrónico con experiencia en visión por computadora, desarrollo de
 ## Experiencia
 
 ### **Proyecto:** *Validación Automatizada de Documentos de Identificación con Visión por Computadora*
-**Empresa:** Inversiones Gutiérrez García y CIA S en C  
-**Cargo:** Desarrollo de Hardware y Software de los sistemas de Inteligencia Artificial 
-**Fecha:** Mayo/2024 – Septiembre/2024 
+**Empresa:** Inversiones Gutiérrez García y CIA S en C.  
+**Cargo:** Desarrollo de Hardware y Software de los sistemas de Inteligencia Artificial. 
+**Fecha:** Mayo/2024 – Septiembre/2024. 
 
 - Gestión del proyecto en GitLab.
 - Uso de FiftyOne para aplicar “Active Learning”.
@@ -85,7 +85,7 @@ El núcleo del proyecto se basa en el ajuste de la última capa de una red neuro
 
 ![Retail](/assets/img/Diagrama_Procesamiento.png)
 
-##### Desarrollo de la plataforma web:
+#### Desarrollo de la plataforma web:
 Como parte del proyecto, diseñé y desarrollé una plataforma web que sirve como interfaz principal para los usuarios. Esta plataforma permite cargar videos, consultar el estado de procesamiento (indicando si un video está en cola, procesándose o finalizado) y visualizar los resultados en tablas dinámicas, como se muestra en la siguiente figura. 
 
 ![Retail](/assets/img/Vista_RegistroVideos.png)
@@ -94,7 +94,7 @@ La interfaz incluye filtros temporales y espaciales, que permiten al usuario vis
 
 ![Retail](/assets/img/Ver_en_mapa.png)
 
-##### Funcionalidades avanzadas:
+#### Funcionalidades avanzadas:
 La plataforma también ofrece la posibilidad de acceder a información detallada sobre elementos específicos, como señales de tránsito. Al seleccionar una señal, el sistema muestra datos precisos, como el número de fotograma en el que aparece, su ubicación en la imagen y las coordenadas GPS asociadas, como se observa en la figura correspondiente. Esta funcionalidad permite un análisis exhaustivo y detallado, brindando a las entidades inspectoras una herramienta poderosa para la toma de decisiones basada en datos georreferenciados.
 
 ![Retail](/assets/img/Ver_Detalle.png)
