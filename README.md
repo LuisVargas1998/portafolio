@@ -1,6 +1,6 @@
 # Perfil profesional
 
-Ingeniero Electrónico con experiencia en visión por computadora, desarrollo de software y Web Scraping. Además, posee habilidades en investigación, diseño y desarrollo de sistemas electrónicos, y participación en proyectos integrales que abarcan análisis y procesamiento de datos, y fundamentos de desarrollo web. Apasionado por la tecnología y el aprendizaje constante.
+Ingeniero Electrónico con experiencia en visión por computadora, desarrollo de software y Web Scraping. Además, poseo habilidades en investigación, diseño y desarrollo de sistemas electrónicos, y participación en proyectos integrales que abarcan análisis y procesamiento de datos, y fundamentos de desarrollo web. Apasionado por la tecnología y el aprendizaje constante.
 
 ## Habilidades técnicas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=blue)
@@ -87,9 +87,13 @@ El núcleo del proyecto se basa en el ajuste de la última capa de una red neuro
 ![Retail](/assets/img/Diagrama_Procesamiento.png)
 
 ##### Desarrollo de la plataforma web:
-Como parte del proyecto, diseñé y desarrollé una plataforma web que sirve como interfaz principal para los usuarios. Esta plataforma permite cargar videos, consultar el estado de procesamiento (indicando si un video está en cola, procesándose o finalizado) y visualizar los resultados en tablas dinámicas, como se muestra en la siguiente figura. La interfaz incluye filtros temporales y espaciales, que permiten al usuario visualizar datos específicos según un momento del trayecto o una ubicación en el mapa. De esta manera, la información mostrada en las tablas se sincroniza con los elementos visibles en el mapa, mejorando la experiencia de consulta.
+Como parte del proyecto, diseñé y desarrollé una plataforma web que sirve como interfaz principal para los usuarios. Esta plataforma permite cargar videos, consultar el estado de procesamiento (indicando si un video está en cola, procesándose o finalizado) y visualizar los resultados en tablas dinámicas, como se muestra en la siguiente figura. 
 
 ![Retail](/assets/img/Vista_RegistroVideos.png)
+
+La interfaz incluye filtros temporales y espaciales, que permiten al usuario visualizar datos específicos según un momento del trayecto o una ubicación en el mapa. De esta manera, la información mostrada en las tablas se sincroniza con los elementos visibles en el mapa, mejorando la experiencia de consulta.
+
+![Retail](/assets/img/Ver_en_mapa.png)
 
 ##### Funcionalidades avanzadas:
 La plataforma también ofrece la posibilidad de acceder a información detallada sobre elementos específicos, como señales de tránsito. Al seleccionar una señal, el sistema muestra datos precisos, como el número de fotograma en el que aparece, su ubicación en la imagen y las coordenadas GPS asociadas, como se observa en la figura correspondiente. Esta funcionalidad permite un análisis exhaustivo y detallado, brindando a las entidades inspectoras una herramienta poderosa para la toma de decisiones basada en datos georreferenciados.
