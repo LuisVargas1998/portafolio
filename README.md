@@ -76,15 +76,17 @@ Ingeniero Electrónico con experiencia en visión por computadora, desarrollo de
 
 #### Inspección Vial utilizando Visión por Computadora:
 
-- Gestión del proyecto en GitLab.
-- Creación de dataset con imágenes inéditas, de internet, bases de datos externas y aplicación de técnica "Data Augmentation".
-- Etiquetado de datos utilizando COCO Annotator.
-- Entrenamiento de modelo neuronal convolucional para detección y clasificación YOLO NAS y uso de rastreo con ByteTracker.
-- Procesamiento en paralelo de video utilizando Dask y gestión de procesos con Prefect.
-- Procesamiento de datos con Pandas, PySpark, Delta Lake.
-- Implementación de API con FastAPI.
-- Uso de base de datos y almacenamiento Mongo DB (Atlas), MinIO, S3.
-- Creación de capa web con Nuxt.js y uso de mapas de Leaflet.
+##### Descripción del proyecto:
+Este proyecto, liderado por el director de la empresa y desarrollado íntegramente por mí, consistió en la creación de un sistema piloto para la inspección remota de vías utilizando visión por computadora. A partir de un video capturado por un vehículo equipado con una cámara de alta calidad y datos GPS, se diseñó un flujo de trabajo que permite procesar y analizar la información para identificar elementos clave en las carreteras. El sistema recibe como entrada el archivo de video y los datos GPS, los cuales se cargan en una plataforma web diseñada específicamente para este propósito. Los datos se almacenan en bases de datos y servicios de almacenamiento en la nube, donde son procesados y posteriormente devueltos a la plataforma. El resultado final se presenta al usuario en la web mediante tablas interactivas y un mapa, facilitando la consulta remota de la información por parte de las entidades encargadas de la inspección vial. El siguiente diagrama ilustra el flujo del proceso descrito.
+
+##### Procesamiento técnico:
+El núcleo del proyecto se basa en el ajuste de la última capa de una red neuronal convolucional (CNN) preentrenada, adaptada para clasificar más de cien categorías individuales, incluyendo señales de tránsito verticales y horizontales, así como deterioros en la superficie vial. Este modelo permite la detección, clasificación, localización y rastreo de elementos de interés en el video, procesando cada fotograma de manera secuencial o paralela según la configuración. Los resultados se exportan en formatos compatibles con bases de datos convencionales, garantizando una integración eficiente. Inicialmente, el modelo alcanzó una precisión del 61.22%. Además, se integraron los datos de video con la información GPS para geolocalizar los elementos detectados, optimizando el análisis espacial. Para mejorar el rendimiento, se implementaron métodos de orquestación y monitoreo de flujos de trabajo, así como pruebas comparativas entre el procesamiento secuencial y paralelo de fotogramas.
+
+##### Desarrollo de la plataforma web:
+Como parte del proyecto, diseñé y desarrollé una plataforma web que sirve como interfaz principal para los usuarios. Esta plataforma permite cargar videos, consultar el estado de procesamiento (indicando si un video está en cola, procesándose o finalizado) y visualizar los resultados en tablas dinámicas, como se muestra en la siguiente figura. La interfaz incluye filtros temporales y espaciales, que permiten al usuario visualizar datos específicos según un momento del trayecto o una ubicación en el mapa. De esta manera, la información mostrada en las tablas se sincroniza con los elementos visibles en el mapa, mejorando la experiencia de consulta.
+
+##### Funcionalidades avanzadas:
+La plataforma también ofrece la posibilidad de acceder a información detallada sobre elementos específicos, como señales de tránsito. Al seleccionar una señal, el sistema muestra datos precisos, como el número de fotograma en el que aparece, su ubicación en la imagen y las coordenadas GPS asociadas, como se observa en la figura correspondiente. Esta funcionalidad permite un análisis exhaustivo y detallado, brindando a las entidades inspectoras una herramienta poderosa para la toma de decisiones basada en datos georreferenciados.
 
 - **Explora más detalles del proyecto en el [repositorio completo](https://github.com/HidenLacan/Hackaton-data).**
 - [Página web](https://hackatonersfrontend.onrender.com/)
