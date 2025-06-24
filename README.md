@@ -53,11 +53,11 @@ Ingeniero Electrónico con experiencia en visión por computadora, desarrollo de
 
 ## Experiencia
 
-### Inversiones Gutiérrez García y CIA S en C
+### **Proyecto:** *Validación Automatizada de Documentos de Identificación con Visión por Computadora*
+**Empresa:** Inversiones Gutiérrez García y CIA S en C  
+**Cargo:** Desarrollo de Hardware y Software de los sistemas de Inteligencia Artificial 
+**Fecha:** Mayo/2024 – Septiembre/2024 
 
-**Desarrollo de Hardware y Software de los sistemas de Inteligencia Artificial (Mayo/2024 – Septiembre/2024)**
-
-#### Validación Automatizada de Documentos de Identificación con Visión por Computadora:
 - Gestión del proyecto en GitLab.
 - Uso de FiftyOne para aplicar “Active Learning”.
 - Creación de dataset con imágenes inéditas y uso "Data Augmentation" con Albumentation.
@@ -70,17 +70,17 @@ Ingeniero Electrónico con experiencia en visión por computadora, desarrollo de
 - Implementación de API con Flask.
 - Uso de herramientas como Selenium y ChromeDriver para automatizar la búsqueda y descarga de documentos web, asegurando la autenticidad de la cédula.
 
-### **Empresa:** Inversiones Gutiérrez García y CIA S en C  
+### **Proyecto:** *Inspección Vial utilizando Visión por Computadora*
+**Empresa:** Inversiones Gutiérrez García y CIA S en C  
 **Cargo:** Pasante de Ingeniería Electrónica  
 **Fecha:** Junio/2023 – Enero/2024  
-**Nombre del Proyecto:** *Inspección Vial utilizando Visión por Computadora*
 
- - Descripción del proyecto:
+#### Descripción del proyecto:
 Este proyecto, liderado por el director de la empresa y desarrollado íntegramente por mí, consistió en la creación de un sistema piloto para la inspección remota de vías utilizando visión por computadora. A partir de un video capturado por un vehículo equipado con una cámara de alta calidad y datos GPS, se diseñó un flujo de trabajo que permite procesar y analizar la información para identificar elementos clave en las carreteras. El sistema recibe como entrada el archivo de video y los datos GPS, los cuales se cargan en una plataforma web diseñada específicamente para este propósito. Los datos se almacenan en bases de datos y servicios de almacenamiento en la nube, donde son procesados y posteriormente devueltos a la plataforma. El resultado final se presenta al usuario en la web mediante tablas interactivas y un mapa, facilitando la consulta remota de la información por parte de las entidades encargadas de la inspección vial. El siguiente diagrama ilustra el flujo del proceso descrito.
 
 ![Retail](/assets/img/Diagrama_Diseno.png)
 
-- Procesamiento técnico:
+#### Procesamiento técnico:
 El núcleo del proyecto se basa en el ajuste de la última capa de una red neuronal convolucional (CNN) preentrenada, adaptada para clasificar más de cien categorías individuales, incluyendo señales de tránsito verticales y horizontales, así como deterioros en la superficie vial. Este modelo permite la detección, clasificación, localización y rastreo de elementos de interés en el video, procesando cada fotograma de manera secuencial o paralela según la configuración. Los resultados se exportan en formatos compatibles con bases de datos convencionales, garantizando una integración eficiente. Inicialmente, el modelo alcanzó una precisión del 61.22%. Además, se integraron los datos de video con la información GPS para geolocalizar los elementos detectados, optimizando el análisis espacial. Para mejorar el rendimiento, se implementaron métodos de orquestación y monitoreo de flujos de trabajo, así como pruebas comparativas entre el procesamiento secuencial y paralelo de fotogramas.
 
 ![Retail](/assets/img/Diagrama_Procesamiento.png)
@@ -96,8 +96,6 @@ La interfaz incluye filtros temporales y espaciales, que permiten al usuario vis
 
 ##### Funcionalidades avanzadas:
 La plataforma también ofrece la posibilidad de acceder a información detallada sobre elementos específicos, como señales de tránsito. Al seleccionar una señal, el sistema muestra datos precisos, como el número de fotograma en el que aparece, su ubicación en la imagen y las coordenadas GPS asociadas, como se observa en la figura correspondiente. Esta funcionalidad permite un análisis exhaustivo y detallado, brindando a las entidades inspectoras una herramienta poderosa para la toma de decisiones basada en datos georreferenciados.
-
-> ![Retail](/assets/img/Ver_en_mapa.png)
 
 ![Retail](/assets/img/Ver_Detalle.png)
 
