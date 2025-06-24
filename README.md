@@ -55,7 +55,7 @@ Ingeniero Electrónico con experiencia en visión por computadora, desarrollo de
 
 ### **Proyecto:** *Validación Automatizada de Documentos de Identificación con Visión por Computadora*
 **Empresa:** Inversiones Gutiérrez García y CIA S en C.  
-**Cargo:** Desarrollo de Hardware y Software de los sistemas de Inteligencia Artificial. 
+**Cargo:** Desarrollo de Hardware y Software de los sistemas de Inteligencia Artificial.
 **Fecha:** Mayo/2024 – Septiembre/2024. 
 
 - Gestión del proyecto en GitLab.
@@ -95,7 +95,7 @@ La interfaz incluye filtros temporales y espaciales, que permiten al usuario vis
 ![Retail](/assets/img/Ver_en_mapa.png)
 
 #### Funcionalidades avanzadas:
-La plataforma también ofrece la posibilidad de acceder a información detallada sobre elementos específicos, como señales de tránsito. Al seleccionar una señal, el sistema muestra datos precisos, como el número de fotograma en el que aparece, su ubicación en la imagen y las coordenadas GPS asociadas, como se observa en la figura correspondiente. Esta funcionalidad permite un análisis exhaustivo y detallado, brindando a las entidades inspectoras una herramienta poderosa para la toma de decisiones basada en datos georreferenciados.
+La plataforma también ofrece la posibilidad de acceder a información detallada sobre elementos específicos, como señales de tránsito. Al seleccionar una señal, el sistema muestra datos precisos, como el número de fotograma en el que aparece, su ubicación en la imagen y las coordenadas GPS asociadas, como se observa en la figura correspondiente. Esta funcionalidad permite un análisis detallado, brindando a las entidades inspectoras una herramienta poderosa para la toma de decisiones basada en datos georreferenciados.
 
 ![Retail](/assets/img/Ver_Detalle.png)
 
