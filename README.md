@@ -37,6 +37,9 @@ Ingeniero electrónico cursando una maestría en visión artificial, con experie
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=blue)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white&color=blue)
 ![CloudCompare](https://img.shields.io/badge/CloudCompare-blue?style=for-the-badge&logoColor=white)
+![DiagAlyser](https://img.shields.io/badge/DiagAlyser-0076A8?style=for-the-badge&logoColor=white&color=blue)
+![CanAnalyser](https://img.shields.io/badge/CanAnalyser-0076A8?style=for-the-badge&logoColor=white&color=blue)
+![Identificacion Vehiculo](https://img.shields.io/badge/Identificacion_Vehiculo-0076A8?style=for-the-badge&logoColor=white&color=blue)
 
 
 ## Habilidades blandas
@@ -50,22 +53,36 @@ Ingeniero electrónico cursando una maestría en visión artificial, con experie
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-eduardo-vargas-7a947a266)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vargascelyluiseduardo@gmail.com)
 
+---
 
-## Experiencia
+## Experiencia Profesional
 
-### **Proyecto:** *Furgoneta K9 SCV, proyecto €7 en Stellantis - Vigo.*
-**Empresa:** Instituto Tecnológico de Aragón (ITA).
-**Cargo:** Flying Doc Analyst(GV).
-**Fecha:** Febrero/2026 – actualidad.
+<details>
+<summary><h3>🚙 <b>Proyecto:</b> <em>Furgoneta K9 SCV, proyecto €7 en Stellantis - Vigo.</em></h3></summary>
+
+<br>
+
+**Empresa:** Instituto Tecnológico de Aragón (ITA).  
+**Cargo:** Flying Doc Analyst(GV).  
+**Fecha:** Febrero/2026 – actualidad.  
+
+**Habilidades aplicadas en este proyecto:**  
+![DiagAlyser](https://img.shields.io/badge/DiagAlyser-0076A8?style=for-the-badge&logoColor=white&color=blue) ![CanAnalyser](https://img.shields.io/badge/CanAnalyser-0076A8?style=for-the-badge&logoColor=white&color=blue) ![Identificacion Vehiculo](https://img.shields.io/badge/Identificacion_Vehiculo-0076A8?style=for-the-badge&logoColor=white&color=blue)
 
 ![Retail](/assets/img/ITA/Foto1.jpg)
-![Retail](/assets/img/ITA/Foto2.jpg)
+![Retail](/assets/img/ITA/Foto2.jpg)  
+*Nota: Fotografías tomadas de la página oficial de Stellantis.*
 
-### **Proyecto:** *Validación Automatizada de Documentos de Identificación con Visión por Computadora*
+</details>
+
+<details>
+<summary><h3>🔍 <b>Proyecto:</b> <em>Validación Automatizada de Documentos de Identificación con Visión por Computadora</em></h3></summary>
+
+<br>
+
 **Empresa:** Inversiones Gutiérrez García y CIA S en C  
 **Cargo:** Desarrollo de Hardware y Software de los sistemas de Inteligencia Artificial  
 **Fecha:** Mayo/2024 – Septiembre/2024
-
 
 - Gestión del proyecto en GitLab.
 - Uso de FiftyOne para aplicar “Active Learning”.
@@ -79,7 +96,13 @@ Ingeniero electrónico cursando una maestría en visión artificial, con experie
 - Implementación de API con Flask.
 - Uso de herramientas como Selenium y ChromeDriver para automatizar la búsqueda y descarga de documentos web, asegurando la autenticidad de la cédula.
 
-### **Proyecto:** *Inspección Vial utilizando Visión por Computadora*
+</details>
+
+<details>
+<summary><h3>🚗 <b>Proyecto:</b> <em>Inspección Vial utilizando Visión por Computadora</em></h3></summary>
+
+<br>
+
 **Empresa:** Inversiones Gutiérrez García y CIA S en C  
 **Cargo:** Pasante de Ingeniería Electrónica  
 **Fecha:** Junio/2023 – Enero/2024  
@@ -90,7 +113,7 @@ Este proyecto, liderado por el director de la empresa y desarrollado íntegramen
 ![Retail](/assets/img/IGG/pasantia/Diagrama_Diseno.png)
 
 #### Procesamiento técnico:
-El núcleo del proyecto se basa en la creación del conjunto datos y  el ajuste de la última capa de una red neuronal convolucional (CNN) preentrenada, adaptada para clasificar más de cien categorías individuales, incluyendo señales de tránsito verticales y horizontales, así como deterioros en la superficie vial. Este modelo permite la detección, clasificación, localización y rastreo de elementos de interés en el video, procesando cada fotograma de manera secuencial o paralela según la configuración. Los resultados se exportan en formatos compatibles con bases de datos convencionales, garantizando una integración eficiente. Inicialmente, el modelo alcanzó una precisión del 61.22%. Además, se integraron los datos de video con la información GPS para geolocalizar los elementos detectados, optimizando el análisis espacial. Para mejorar el rendimiento, se implementaron métodos de orquestación y monitoreo de flujos de trabajo, así como pruebas comparativas entre el procesamiento secuencial y paralelo de fotogramas.
+El núcleo del proyecto se basa en la creación del conjunto datos y el ajuste de la última capa de una red neuronal convolucional (CNN) preentrenada, adaptada para clasificar más de cien categorías individuales, incluyendo señales de tránsito verticales y horizontales, así como deterioros en la superficie vial. Este modelo permite la detección, clasificación, localización y rastreo de elementos de interés en el video, procesando cada fotograma de manera secuencial o paralela según la configuración. Los resultados se exportan en formatos compatibles con bases de datos convencionales, garantizando una integración eficiente. Inicialmente, el modelo alcanzó una precisión del 61.22%. Además, se integraron los datos de video con la información GPS para geolocalizar los elementos detectados, optimizando el análisis espacial. Para mejorar el rendimiento, se implementaron métodos de orquestación y monitoreo de flujos de trabajo, así como pruebas comparativas entre el procesamiento secuencial y paralelo de fotogramas.
 
 ![Retail](/assets/img/IGG/pasantia/Diagrama_Procesamiento.png)
 
@@ -111,28 +134,35 @@ La plataforma también ofrece la posibilidad de acceder a información detallada
 - **Explora más detalles del proyecto en el [repositorio completo](https://github.com/HidenLacan/Hackaton-data).**
 - [Página web](https://hackatonersfrontend.onrender.com/)
 
+</details>
 
+---
 
+## Proyectos Universitarios
 
-### Proyecto Universitario
+<details>
+<summary><h3>🎵 <b>Inteligencia Computacional 2</b> | <em>Clasificador de Hits de Spotify utilizando CNN</em></h3></summary>
 
-**Inteligencia Computacional 2 (Abril/2023 – Junio/2023)**
+<br>
 
-#### Clasificador de Hits de Spotify utilizando CNN:
+**(Abril/2023 – Junio/2023)**
+
 - Lenguaje de programación Python.
 - Análisis y procesamiento de datos del dataset.
 - Implementación de una red neuronal Feed-Forward con Keras.
 - Uso de algoritmos PCA y TSNE para la reducción de las variables de entrada.
 
-### Proyecto Universitario
+</details>
 
-**Inteligencia Computacional 1 (Abril/2023 – Junio/2023)**
+<details>
+<summary><h3>🎵 <b>Inteligencia Computacional 1</b> | <em>Clasificador de Hits de Spotify utilizando sistemas difusos</em></h3></summary>
 
-#### Clasificador de Hits de Spotify utilizando sistemas difusos:
+<br>
+
+**(Abril/2023 – Junio/2023)**
+
 - Lenguaje de programación Matlab.
 - Análisis y procesamiento de datos del dataset.
 - Definición de conjuntos y reglas para posterior ajuste y optimización de parámetros y obtención de la inferencia difusa.
 
-
-
-
+</details>
