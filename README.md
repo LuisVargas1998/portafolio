@@ -53,10 +53,10 @@ Ingeniero electrónico cursando una maestría en visión artificial, con experie
 
 ## Experiencia
 
-### **Proyecto:** *Proyecto €7 K9 SCV en Stellantis Vigo*
-**Empresa:** Instituto Tecnológico de Aragón 
-**Cargo:** Flying Doc Analyst(GV) para proyecto €7 en Stellantis Vigo 
-**Fecha:** Febrero/2026 – actualidad
+### **Proyecto:** *Furgonte K9 SCV, proyecto €7 en Stellantis - Vigo.*
+**Empresa:** Instituto Tecnológico de Aragón (ITA).
+**Cargo:** Flying Doc Analyst(GV).
+**Fecha:** Febrero/2026 – actualidad.
 
 ![Retail](/assets/img/ITA/Foto1.jpg)
 ![Retail](/assets/img/ITA/Foto2.jpg)
