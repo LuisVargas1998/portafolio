@@ -140,8 +140,7 @@ La plataforma también ofrece la posibilidad de acceder a información detallada
 
 ![Retail](/assets/img/IGG/pasantia/Ver_Detalle.png)
 
-- **Explora más detalles del proyecto en el [repositorio completo](https://github.com/HidenLacan/Hackaton-data).**
-- [Página web](https://hackatonersfrontend.onrender.com/)
+- 📄 **Tesis de grado publicada:** L. E. Vargas. *"Modelo de detección y análisis de señales de tránsito y deterioro de la superficie vial en carreteras 4G y 5G haciendo uso de redes neuronales convolucionales."* Disponible en la Biblioteca de la Universidad Distrital y en el [Repositorio Institucional UDFJC](http://hdl.handle.net/11349/94098).
 
 </details>
 
