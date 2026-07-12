@@ -1,6 +1,6 @@
 # Perfil profesional
 
-Ingeniero electrónico cursando una maestría en visión artificial, con experiencia en desarrollo de software, extracción de datos web y automatización de procesos. Posee además habilidades en investigación, diseño y análisis de sistemas electrónicos, incluyendo experiencia reciente en diagnóstico automotriz y procesamiento de señales. Apasionado por la tecnología y el aprendizaje continuo.
+Ingeniero electrónico finalizando una maestría en visión artificial, con experiencia en desarrollo de software, extracción de datos web y automatización de procesos. Posee además habilidades en investigación, diseño y análisis de sistemas electrónicos, incluyendo experiencia reciente en diagnóstico automotriz y procesamiento de señales. Apasionado por la tecnología y el aprendizaje continuo.
 
 ## Habilidades técnicas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=blue)
