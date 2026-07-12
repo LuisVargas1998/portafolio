@@ -38,8 +38,8 @@ Ingeniero electrónico cursando una maestría en visión artificial, con experie
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white&color=blue)
 ![CloudCompare](https://img.shields.io/badge/CloudCompare-blue?style=for-the-badge&logoColor=white)
 ![DiagAlyser](https://img.shields.io/badge/DiagAlyser-0076A8?style=for-the-badge&logoColor=white&color=blue)
-![CanAnalyser](https://img.shields.io/badge/CanAnalyser-0076A8?style=for-the-badge&logoColor=white&color=blue)
-![Identificacion Vehiculo](https://img.shields.io/badge/Identificacion_Vehiculo-0076A8?style=for-the-badge&logoColor=white&color=blue)
+![CanAlyser](https://img.shields.io/badge/CanAlyser-0076A8?style=for-the-badge&logoColor=white&color=blue)
+![Indentificacion vehicule](https://img.shields.io/badge/Indentificacion_vehicule-0076A8?style=for-the-badge&logoColor=white&color=blue)
 
 
 ## Habilidades blandas
@@ -55,19 +55,17 @@ Ingeniero electrónico cursando una maestría en visión artificial, con experie
 
 ---
 
-## Experiencia Profesional
+## Experiencia
 
-<details>
-<summary><h3>🚙 <b>Proyecto:</b> <em>Furgoneta K9 SCV, proyecto €7 en Stellantis - Vigo.</em></h3></summary>
-
-<br>
+<details markdown="1">
+<summary><h3>▶ <b>Proyecto:</b> <em>Furgoneta K9 SCV, proyecto €7 en Stellantis - Vigo.</em></h3></summary>
 
 **Empresa:** Instituto Tecnológico de Aragón (ITA).  
 **Cargo:** Flying Doc Analyst(GV).  
 **Fecha:** Febrero/2026 – actualidad.  
 
-**Habilidades aplicadas en este proyecto:**  
-![DiagAlyser](https://img.shields.io/badge/DiagAlyser-0076A8?style=for-the-badge&logoColor=white&color=blue) ![CanAnalyser](https://img.shields.io/badge/CanAnalyser-0076A8?style=for-the-badge&logoColor=white&color=blue) ![Identificacion Vehiculo](https://img.shields.io/badge/Identificacion_Vehiculo-0076A8?style=for-the-badge&logoColor=white&color=blue)
+**Habilidades aplicadas:**  
+![DiagAlyser](https://img.shields.io/badge/DiagAlyser-0076A8?style=for-the-badge&logoColor=white&color=blue) ![CanAlyser](https://img.shields.io/badge/CanAlyser-0076A8?style=for-the-badge&logoColor=white&color=blue) ![Indentificacion vehicule](https://img.shields.io/badge/Indentificacion_vehicule-0076A8?style=for-the-badge&logoColor=white&color=blue)
 
 ![Retail](/assets/img/ITA/Foto1.jpg)
 ![Retail](/assets/img/ITA/Foto2.jpg)  
@@ -75,10 +73,10 @@ Ingeniero electrónico cursando una maestría en visión artificial, con experie
 
 </details>
 
-<details>
-<summary><h3>🔍 <b>Proyecto:</b> <em>Validación Automatizada de Documentos de Identificación con Visión por Computadora</em></h3></summary>
-
 <br>
+
+<details markdown="1">
+<summary><h3>▶ <b>Proyecto:</b> <em>Validación Automatizada de Documentos de Identificación con Visión por Computadora</em></h3></summary>
 
 **Empresa:** Inversiones Gutiérrez García y CIA S en C  
 **Cargo:** Desarrollo de Hardware y Software de los sistemas de Inteligencia Artificial  
@@ -98,10 +96,10 @@ Ingeniero electrónico cursando una maestría en visión artificial, con experie
 
 </details>
 
-<details>
-<summary><h3>🚗 <b>Proyecto:</b> <em>Inspección Vial utilizando Visión por Computadora</em></h3></summary>
-
 <br>
+
+<details markdown="1">
+<summary><h3>▶ <b>Proyecto:</b> <em>Inspección Vial utilizando Visión por Computadora</em></h3></summary>
 
 **Empresa:** Inversiones Gutiérrez García y CIA S en C  
 **Cargo:** Pasante de Ingeniería Electrónica  
@@ -140,10 +138,8 @@ La plataforma también ofrece la posibilidad de acceder a información detallada
 
 ## Proyectos Universitarios
 
-<details>
-<summary><h3>🎵 <b>Inteligencia Computacional 2</b> | <em>Clasificador de Hits de Spotify utilizando CNN</em></h3></summary>
-
-<br>
+<details markdown="1">
+<summary><h3>▶ <b>Inteligencia Computacional 2</b> | <em>Clasificador de Hits de Spotify utilizando CNN</em></h3></summary>
 
 **(Abril/2023 – Junio/2023)**
 
@@ -154,10 +150,10 @@ La plataforma también ofrece la posibilidad de acceder a información detallada
 
 </details>
 
-<details>
-<summary><h3>🎵 <b>Inteligencia Computacional 1</b> | <em>Clasificador de Hits de Spotify utilizando sistemas difusos</em></h3></summary>
-
 <br>
+
+<details markdown="1">
+<summary><h3>▶ <b>Inteligencia Computacional 1</b> | <em>Clasificador de Hits de Spotify utilizando sistemas difusos</em></h3></summary>
 
 **(Abril/2023 – Junio/2023)**
 
