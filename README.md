@@ -39,7 +39,7 @@ Ingeniero electrónico cursando una maestría en visión artificial, con experie
 ![CloudCompare](https://img.shields.io/badge/CloudCompare-blue?style=for-the-badge&logoColor=white)
 ![DiagAlyser](https://img.shields.io/badge/DiagAlyser-0076A8?style=for-the-badge&logoColor=white&color=blue)
 ![CanAlyser](https://img.shields.io/badge/CanAlyser-0076A8?style=for-the-badge&logoColor=white&color=blue)
-![Indentificacion vehicule](https://img.shields.io/badge/Indentificacion_vehicule-0076A8?style=for-the-badge&logoColor=white&color=blue)
+![Identification Vehicle](https://img.shields.io/badge/Identification_Vehicle-0076A8?style=for-the-badge&logoColor=white&color=blue)
 
 
 ## Habilidades blandas
@@ -58,25 +58,37 @@ Ingeniero electrónico cursando una maestría en visión artificial, con experie
 ## Experiencia
 
 <details markdown="1">
-<summary><h3>▶ <b>Proyecto:</b> <em>Furgoneta K9 SCV, proyecto €7 en Stellantis - Vigo.</em></h3></summary>
+<summary><h3>▶ <b>Proyecto:</b> <em>Furgoneta K9 SCV, proyecto €7 en Stellantis - Vigo.</em> <sub>(👉 Clic para desplegar)</sub></h3></summary>
 
 **Empresa:** Instituto Tecnológico de Aragón (ITA).  
-**Cargo:** Flying Doc Analyst(GV).  
+**Cargo:** Flying Doc Analyst (GV).  
 **Fecha:** Febrero/2026 – actualidad.  
 
 **Habilidades aplicadas:**  
-![DiagAlyser](https://img.shields.io/badge/DiagAlyser-0076A8?style=for-the-badge&logoColor=white&color=blue) ![CanAlyser](https://img.shields.io/badge/CanAlyser-0076A8?style=for-the-badge&logoColor=white&color=blue) ![Indentificacion vehicule](https://img.shields.io/badge/Indentificacion_vehicule-0076A8?style=for-the-badge&logoColor=white&color=blue)
+![DiagAlyser](https://img.shields.io/badge/DiagAlyser-0076A8?style=for-the-badge&logoColor=white&color=blue) ![CanAlyser](https://img.shields.io/badge/CanAlyser-0076A8?style=for-the-badge&logoColor=white&color=blue) ![Identification Vehicle](https://img.shields.io/badge/Identification_Vehicle-0076A8?style=for-the-badge&logoColor=white&color=blue)
 
-![Retail](/assets/img/ITA/Foto1.jpg)
-![Retail](/assets/img/ITA/Foto2.jpg)  
-*Nota: Fotografías tomadas de la página oficial de Stellantis.*
+#### Descripción del proyecto:
+El proyecto se centra en la plataforma K9 SCV (Small Commercial Vehicles), orientada a la actualización y mejora de furgonetas para cumplir con la exigente normativa de emisiones Euro 7 (€7). Estas nuevas unidades optimizan la arquitectura de la K9 convencional mediante modificaciones en la gestión electrónica y de software del vehículo, logrando una mayor eficiencia y reducción del impacto ambiental.
+
+![K9 SCV Stellantis](/assets/img/ITA/Foto1.jpg)
+*Nota: Fotografía tomada de la página web oficial de Stellantis.*
+
+#### Mi labor como Flying Doc Analyst:
+Mi intervención directa inicia cuando el equipo de Auditoría detecta anomalías de software en el vehículo (por ejemplo, la aparición de un Pop-Up inesperado, o el encendido erróneo de un testigo o LED en el cuadro de instrumentos). Mis responsabilidades técnicas abarcan:
+
+*   **Diagnóstico y recolección de datos:** Realización de grabaciones de las tramas y señales CAN utilizando dataloggers como Muxlog. Recopilo información crítica del estado del vehículo, incluyendo la configuración general (DOVE) y el *variant coding* (configuración específica de las centralitas o ECUs involucradas).
+*   **Análisis y documentación:** Documento visualmente el fallo mediante vídeos e imágenes para dar a entender el error con precisión. Realizo un análisis de primer nivel sobre las trazas de red y escalo la información a los equipos de desarrollo correspondientes de dichas centralitas, o la subo a una plataforma centralizada para análisis de nivel superior.
+*   **Intervención en sistemas electrónicos:** Aplico modificaciones directas al vehículo bajo petición. Esto incluye la instalación (flasheo) de nuevas versiones de software o calibraciones en centralitas como la BSI o CMB. Además, me encargo de cargar en el vehículo las dotes correspondientes y realizar cambios manuales de los valores de los mnemónicos para pruebas y validaciones.
+
+![Trabajo en vehículo](/assets/img/ITA/Foto2.jpg)
+*Nota: Imagen tomada por mi persona durante el proceso de análisis e intervención.*
 
 </details>
 
 <br>
 
 <details markdown="1">
-<summary><h3>▶ <b>Proyecto:</b> <em>Validación Automatizada de Documentos de Identificación con Visión por Computadora</em></h3></summary>
+<summary><h3>▶ <b>Proyecto:</b> <em>Validación Automatizada de Documentos de Identificación con Visión por Computadora</em> <sub>(👉 Clic para desplegar)</sub></h3></summary>
 
 **Empresa:** Inversiones Gutiérrez García y CIA S en C  
 **Cargo:** Desarrollo de Hardware y Software de los sistemas de Inteligencia Artificial  
@@ -99,7 +111,7 @@ Ingeniero electrónico cursando una maestría en visión artificial, con experie
 <br>
 
 <details markdown="1">
-<summary><h3>▶ <b>Proyecto:</b> <em>Inspección Vial utilizando Visión por Computadora</em></h3></summary>
+<summary><h3>▶ <b>Proyecto:</b> <em>Inspección Vial utilizando Visión por Computadora</em> <sub>(👉 Clic para desplegar)</sub></h3></summary>
 
 **Empresa:** Inversiones Gutiérrez García y CIA S en C  
 **Cargo:** Pasante de Ingeniería Electrónica  
@@ -139,7 +151,7 @@ La plataforma también ofrece la posibilidad de acceder a información detallada
 ## Proyectos Universitarios
 
 <details markdown="1">
-<summary><h3>▶ <b>Inteligencia Computacional 2</b> | <em>Clasificador de Hits de Spotify utilizando CNN</em></h3></summary>
+<summary><h3>▶ <b>Inteligencia Computacional 2</b> | <em>Clasificador de Hits de Spotify utilizando CNN</em> <sub>(👉 Clic para desplegar)</sub></h3></summary>
 
 **(Abril/2023 – Junio/2023)**
 
@@ -153,7 +165,7 @@ La plataforma también ofrece la posibilidad de acceder a información detallada
 <br>
 
 <details markdown="1">
-<summary><h3>▶ <b>Inteligencia Computacional 1</b> | <em>Clasificador de Hits de Spotify utilizando sistemas difusos</em></h3></summary>
+<summary><h3>▶ <b>Inteligencia Computacional 1</b> | <em>Clasificador de Hits de Spotify utilizando sistemas difusos</em> <sub>(👉 Clic para desplegar)</sub></h3></summary>
 
 **(Abril/2023 – Junio/2023)**
 
