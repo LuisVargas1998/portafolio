@@ -68,20 +68,19 @@ Ingeniero electrónico finalizando una maestría en visión artificial, con expe
 ![DiagAlyser](https://img.shields.io/badge/DiagAlyser-0076A8?style=for-the-badge&logoColor=white&color=blue) ![CanAlyser](https://img.shields.io/badge/CanAlyser-0076A8?style=for-the-badge&logoColor=white&color=blue) ![Identification Vehicle](https://img.shields.io/badge/Identification_Vehicle-0076A8?style=for-the-badge&logoColor=white&color=blue)
 
 #### Descripción del proyecto:
-El proyecto se centra en la plataforma K9 SCV (Small Commercial Vehicles), orientada a la actualización y mejora de furgonetas para cumplir con la exigente normativa de emisiones Euro 7 (€7). Estas nuevas unidades optimizan la arquitectura de la K9 convencional mediante modificaciones en la gestión electrónica y de software del vehículo, logrando una mayor eficiencia y reducción del impacto ambiental.
+El proyecto se centra en la actualización y mejora de las furgonetas K9 SCV (Smart Compact Van), orientado a cumplir con la exigente normativa de emisiones Euro 7 (€7). Estas nuevas unidades optimizan la arquitectura de la K9 convencional mediante modificaciones donde también se incluye la gestión electrónica y de software del vehículo, logrando una mayor eficiencia y reducción del impacto ambiental.
 
 ![K9 SCV Stellantis](/assets/img/ITA/Foto1.jpg)
 *Nota: Fotografía tomada de la página web oficial de Stellantis.*
 
 #### Mi labor como Flying Doc Analyst:
-Mi intervención directa inicia cuando el equipo de Auditoría detecta anomalías de software en el vehículo (por ejemplo, la aparición de un Pop-Up inesperado, o el encendido erróneo de un testigo o LED en el cuadro de instrumentos). Mis responsabilidades técnicas abarcan:
+Mi intervención directa inicia cuando el equipo de Auditoría detecta anomalías de software en el vehículo (por ejemplo, la aparición de un Pop-Up en el cluster inesperados, o el encendido erróneo de testigo o lo que sea que sea un comportamiento no adecuado). Mis responsabilidades técnicas abarcan:
 
-*   **Diagnóstico y recolección de datos:** Realización de grabaciones de las tramas y señales CAN utilizando dataloggers como Muxlog. Recopilo información crítica del estado del vehículo, incluyendo la configuración general (DOVE) y el *variant coding* (configuración específica de las centralitas o ECUs involucradas).
-*   **Análisis y documentación:** Documento visualmente el fallo mediante vídeos e imágenes para dar a entender el error con precisión. Realizo un análisis de primer nivel sobre las trazas de red y escalo la información a los equipos de desarrollo correspondientes de dichas centralitas, o la subo a una plataforma centralizada para análisis de nivel superior.
-*   **Intervención en sistemas electrónicos:** Aplico modificaciones directas al vehículo bajo petición. Esto incluye la instalación (flasheo) de nuevas versiones de software o calibraciones en centralitas como la BSI o CMB. Además, me encargo de cargar en el vehículo las dotes correspondientes y realizar cambios manuales de los valores de los mnemónicos para pruebas y validaciones.
+*   **Diagnóstico y recolección de datos:** realización de grabaciones de las tramas y señales CAN utilizando dataloggers como Muxlog. Recopilo información del estado del vehículo, como lo son la configuración general (DOVE) y las configuraciones específica de las centralitas o ECUs involucradas (variant coding).
+*   **Análisis y documentación:** documento visualmente el fallo mediante vídeos e imágenes para dar a entender el error de una mejor manera. Realizo un análisis de primer nivel sobre las trazas de la red y escalo la información a los equipos de desarrollo correspondientes de dichas centralitas, o la subo a la plataforma centralizada para análisis de nivel superior.
+*   **Intervención en sistemas electrónicos:** aplico modificaciones directas al vehículo bajo petición. Esto incluye la instalación (flasheo) de nuevas versiones de software o calibraciones en centralitas. Además, me encargo de cargar en el vehículo las dotes correspondientes y/o realizar cambios manuales de los valores de los mnemónicos para pruebas y validaciones.
 
 ![Trabajo en vehículo](/assets/img/ITA/Foto2.jpg)
-*Nota: Imagen tomada por mi persona durante el proceso de análisis e intervención.*
 
 </details>
 
