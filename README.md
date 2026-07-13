@@ -1,6 +1,6 @@
 # Perfil profesional
 
-Ingeniero electrónico finalizando una maestría en visión artificial, con experiencia en desarrollo de software, extracción de datos web y automatización de procesos. Posee además habilidades en investigación, diseño y análisis de sistemas electrónicos, incluyendo experiencia reciente en diagnóstico automotriz y procesamiento de señales. Apasionado por la tecnología y el aprendizaje continuo.
+Soy un ingeniero electrónico finalizando un máster en visión artificial, con experiencia en desarrollo de software, extracción de datos web y automatización de procesos. Poseo además habilidades en investigación, diseño y análisis de sistemas electrónicos, incluyendo experiencia reciente en diagnóstico automotriz y análisis de señales. Apasionado por la tecnología y el aprendizaje continuo.
 
 ## Habilidades técnicas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=blue)
@@ -68,17 +68,18 @@ Ingeniero electrónico finalizando una maestría en visión artificial, con expe
 ![DiagAlyser](https://img.shields.io/badge/DiagAlyser-0076A8?style=for-the-badge&logoColor=white&color=blue) ![CanAlyser](https://img.shields.io/badge/CanAlyser-0076A8?style=for-the-badge&logoColor=white&color=blue) ![Identification Vehicle](https://img.shields.io/badge/Identification_Vehicle-0076A8?style=for-the-badge&logoColor=white&color=blue)
 
 #### Descripción del proyecto:
-El proyecto se centra en la actualización y mejora de las furgonetas K9 SCV (Smart Compact Van), orientado a cumplir con la exigente normativa de emisiones Euro 7 (€7). Estas nuevas unidades optimizan la arquitectura de la K9 convencional mediante modificaciones donde también se incluye la gestión electrónica y de software del vehículo, logrando una mayor eficiencia y reducción del impacto ambiental.
+Este consiste en la evolución técnica de la plataforma K9 convencional hacia la nueva versión **K9 SCV (Smart Compact Van)**. El objetivo principal es adaptar y actualizar estas furgonetas para cumplir estrictamente con la normativa de emisiones Euro 7 (€7), optimizando su arquitectura incluyendo mejoras en la gestión electrónica y el software del vehículo para maximizar la eficiencia y reducir el impacto ambiental.
 
 ![K9 SCV Stellantis](/assets/img/ITA/Foto1.jpg)
 *Nota: Fotografía tomada de la página web oficial de Stellantis.*
 
-#### Mi labor como Flying Doc Analyst:
-Mi intervención directa inicia cuando el equipo de Auditoría detecta anomalías de software en el vehículo (por ejemplo, la aparición de un Pop-Up en el cluster inesperados, o el encendido erróneo de testigo o lo que sea que sea un comportamiento no adecuado). Mis responsabilidades técnicas abarcan:
+#### Labor como Flying Doc Analyst:
+Mi intervención directa inicia ante la detección de anomalías electrónicas o de software en el vehículo durante los procesos de auditoría y pruebas de calidad (comportamientos no adecuados o fallos en los sistemas integrados). Mis responsabilidades técnicas abarcan:
 
-*   **Diagnóstico y recolección de datos:** realización de grabaciones de las tramas y señales CAN utilizando dataloggers como Muxlog. Recopilo información del estado del vehículo, como lo son la configuración general (DOVE) y las configuraciones específica de las centralitas o ECUs involucradas (variant coding).
-*   **Análisis y documentación:** documento visualmente el fallo mediante vídeos e imágenes para dar a entender el error de una mejor manera. Realizo un análisis de primer nivel sobre las trazas de la red y escalo la información a los equipos de desarrollo correspondientes de dichas centralitas, o la subo a la plataforma centralizada para análisis de nivel superior.
-*   **Intervención en sistemas electrónicos:** aplico modificaciones directas al vehículo bajo petición. Esto incluye la instalación (flasheo) de nuevas versiones de software o calibraciones en centralitas. Además, me encargo de cargar en el vehículo las dotes correspondientes y/o realizar cambios manuales de los valores de los mnemónicos para pruebas y validaciones.
+*   **Diagnóstico y recolección de datos:** instrumentación del vehículo y realización de grabaciones de tramas y señales en el bus CAN mediante el uso de dataloggers analizados con software especializado (como Muxlog y CanAlyser). Extraigo y recopilo la información del estado del coche, analizando tanto la configuración general del vehículo (DOVE) como la parametrización específica de las centralitas involucradas (*variant coding*).
+*   **Análisis y documentación:** análisis de primer nivel de las trazas de red y registro técnico del fallo a través de soporte multimedia para documentar con precisión el error. Posteriormente, gestiono el escalado de la información hacia los equipos de desarrollo de las ECUs correspondientes o mediante plataformas centralizadas de ingeniería para análisis de nivel superior.
+*   **Intervención en sistemas electrónicos y calibración:** aplicación de modificaciones y actualizaciones directas sobre la arquitectura electrónica bajo petición. Esto incluye el flasheo de nuevas versiones de software o calibraciones en unidades de control (como BSI, CMB, etc.), la carga de configuraciones masivas (*dotes*) y la modificación manual de mnemónicos para la validación de pruebas en planta.
+
 
 ![Trabajo en vehículo](/assets/img/ITA/Foto2.jpg)
 
