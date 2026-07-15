@@ -83,7 +83,7 @@ Mi intervención directa inicia ante la detección de anomalías electrónicas o
 *   **Análisis y documentación:** análisis de primer nivel de las trazas de red y registro técnico del fallo a través de soporte multimedia para documentar con precisión el error. Posteriormente, gestiono el escalado de la información hacia los equipos de desarrollo de las ECUs correspondientes o mediante plataformas centralizadas de ingeniería para análisis de nivel superior.
 *   **Intervención en sistemas electrónicos y calibración:** aplicación de modificaciones y actualizaciones directas sobre la arquitectura electrónica bajo petición. Esto incluye la carga de nuevas versiones de software o calibraciones en unidades de control (como BSI, CMB, etc.), la carga de configuraciones masivas (*dotes*) y la modificación manual de mnemónicos para la validación de pruebas en planta.
 
-![Trabajo en vehículo](/assets/img/ITA/Foto2.jpg)
+![Trabajo en vehículo](/assets/img/ITA/foto_Diagnostico_K9_SCV.jpg)
 
 
 </details>
