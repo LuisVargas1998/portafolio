@@ -67,10 +67,13 @@ Soy un ingeniero electrónico finalizando un máster en visión artificial, con 
 **Habilidades aplicadas:**  
 ![DiagAlyser](https://img.shields.io/badge/DiagAlyser-0076A8?style=for-the-badge&logoColor=white&color=blue) ![CanAlyser](https://img.shields.io/badge/CanAlyser-0076A8?style=for-the-badge&logoColor=white&color=blue) ![Identification Vehicle](https://img.shields.io/badge/Identification_Vehicle-0076A8?style=for-the-badge&logoColor=white&color=blue)
 
+![K9 SCV Stellantis](/assets/img/ITA/Foto1.jpg)
+*Nota: Fotografía tomada de la página web oficial de Stellantis.*
+
 #### Descripción del proyecto:
 Este consiste en la evolución técnica de la plataforma K9 convencional hacia la nueva versión **K9 SCV (Smart Compact Van)**. El objetivo principal es adaptar y actualizar estas furgonetas para cumplir estrictamente con la normativa de emisiones Euro 7 (€7), optimizando su arquitectura incluyendo mejoras en la gestión electrónica y el software del vehículo para maximizar la eficiencia y reducir el impacto ambiental.
 
-![K9 SCV Stellantis](/assets/img/ITA/Foto1.jpg)
+![Trabajo en vehículo](/assets/img/ITA/Foto2.jpg)
 *Nota: Fotografía tomada de la página web oficial de Stellantis.*
 
 #### Labor como Flying Doc Analyst:
@@ -78,10 +81,10 @@ Mi intervención directa inicia ante la detección de anomalías electrónicas o
 
 *   **Diagnóstico y recolección de datos:** instrumentación del vehículo y realización de grabaciones de tramas y señales en el bus CAN mediante el uso de dataloggers analizados con software especializado (como Muxlog y CanAlyser). Extraigo y recopilo la información del estado del coche, analizando tanto la configuración general del vehículo (DOVE) como la parametrización específica de las centralitas involucradas (*variant coding*).
 *   **Análisis y documentación:** análisis de primer nivel de las trazas de red y registro técnico del fallo a través de soporte multimedia para documentar con precisión el error. Posteriormente, gestiono el escalado de la información hacia los equipos de desarrollo de las ECUs correspondientes o mediante plataformas centralizadas de ingeniería para análisis de nivel superior.
-*   **Intervención en sistemas electrónicos y calibración:** aplicación de modificaciones y actualizaciones directas sobre la arquitectura electrónica bajo petición. Esto incluye el flasheo de nuevas versiones de software o calibraciones en unidades de control (como BSI, CMB, etc.), la carga de configuraciones masivas (*dotes*) y la modificación manual de mnemónicos para la validación de pruebas en planta.
-
+*   **Intervención en sistemas electrónicos y calibración:** aplicación de modificaciones y actualizaciones directas sobre la arquitectura electrónica bajo petición. Esto incluye la carga de nuevas versiones de software o calibraciones en unidades de control (como BSI, CMB, etc.), la carga de configuraciones masivas (*dotes*) y la modificación manual de mnemónicos para la validación de pruebas en planta.
 
 ![Trabajo en vehículo](/assets/img/ITA/Foto2.jpg)
+
 
 </details>
 
