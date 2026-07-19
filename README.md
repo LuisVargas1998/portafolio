@@ -58,7 +58,7 @@ Soy un ingeniero electrónico finalizando un máster en visión artificial, con 
 ## Experiencia
 
 <details markdown="1">
-<summary><h3>▶ <b>Proyecto:</b> <em>Furgoneta K9 SCV, proyecto €7 en Stellantis - Vigo.</em> <sub>(👉 Clic para desplegar)</sub></h3></summary>
+<summary><h3>▶ <b>Proyecto:</b> <em>Furgoneta K9 SCV (Smart Compact Van) en Stellantis - Vigo.</em> <sub>(👉 Clic para desplegar)</sub></h3></summary>
 
 **Empresa:** Instituto Tecnológico de Aragón (ITA).  
 **Cargo:** Flying Doc Analyst (GV).  
@@ -71,7 +71,7 @@ Soy un ingeniero electrónico finalizando un máster en visión artificial, con 
 *Nota: Fotografía tomada de la página web oficial de Stellantis.*
 
 #### Descripción del proyecto:
-Este consiste en la evolución técnica de la plataforma K9 convencional hacia la nueva versión **K9 SCV (Smart Compact Van)**. El objetivo principal es adaptar y actualizar estas furgonetas para cumplir estrictamente con la normativa de emisiones Euro 7 (€7), optimizando su arquitectura incluyendo mejoras en la gestión electrónica y el software del vehículo para maximizar la eficiencia y reducir el impacto ambiental.
+Este consiste en la evolución técnica de la plataforma K9 hacia la nueva versión **K9 SCV (Smart Compact Van)** de Stellantis Pro One. El objetivo es desarrollar furgonetas compactas altamente funcionales, accesibles y orientadas al sector profesional, optimizando la arquitectura general y la gestión electrónica. Se prescinde de elementos no esenciales para maximizar la eficiencia y rentabilidad, asegurando la fiabilidad del software y los sistemas integrados de los vehículos producidos en la planta de Vigo.
 
 ![Trabajo en vehículo](/assets/img/ITA/Foto2.jpg)
 *Nota: Fotografía tomada de la página web oficial de Stellantis.*
@@ -84,7 +84,6 @@ Mi intervención directa inicia ante la detección de anomalías electrónicas o
 *   **Intervención en sistemas electrónicos y calibración:** aplicación de modificaciones y actualizaciones directas sobre la arquitectura electrónica bajo petición. Esto incluye la carga de nuevas versiones de software o calibraciones en unidades de control (como BSI, CMB, etc.), la carga de configuraciones masivas (*dotes*) y la modificación manual de mnemónicos para la validación de pruebas en planta.
 
 ![Trabajo en vehículo](/assets/img/ITA/foto_Diagnostico_K9_SCV.jpg)
-
 
 </details>
 
